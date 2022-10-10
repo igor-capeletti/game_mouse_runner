@@ -11,6 +11,7 @@ História do Jogo                    | Rato tentando escapar de seu predador par
 Desafios do Jogador                 | Escapar passando por obstáculos, armadilhas e bônus pelo caminho.
 Desafio de avaliação da disciplina  | Jogar com apenas um botão
 Desafio de design                   | Desenvolver cenários exclusivos
+Status atual do Jogo                | Uma fase pronta, mas o restante não foi continuado
 
 Imagem Inicial do Jogo:
 <img src="/tela_inicio.png" alt="Jogo Mouse Runner"/>
