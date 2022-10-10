@@ -13,7 +13,7 @@ Desafio de avaliação da disciplina  | Jogar com apenas um botão
 Desafio de design                   | Desenvolver cenários exclusivos
 
 Imagem Inicial do Jogo:
-<img src="https://github.com/igor-capeletti/game_mouse_runner/blob/main/tela_inicio.png" alt="Jogo Mouse Runner"/>
+<img src="/tela_inicio.png" alt="Jogo Mouse Runner"/>
 
 
 Link de download com os arquivos editáveis para desenvolvimento na plataforma <a href='https://unity.com'>Unity</a>: 
