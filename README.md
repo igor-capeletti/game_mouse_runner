@@ -17,9 +17,9 @@ Imagem Inicial do Jogo:
 <img src="/tela_inicio.png" alt="Jogo Mouse Runner"/>
 
 
-Link de download com os arquivos editáveis para desenvolvimento na plataforma <a href='https://unity.com'>Unity</a>: 
+* Link de download com os arquivos editáveis para desenvolvimento na plataforma <a href='https://unity.com'>Unity</a>:<br>
 https://drive.google.com/drive/folders/1sPOwK5S6-2ftTcYRKbTnb6oz_C_xwWt3?usp=sharing
 
-Link para baixar e executar o jogo em seu computador (2 clicks em **Jogo Lab Games.exe**):
+* Link para baixar e executar o jogo em seu computador (2 clicks em **Jogo Lab Games.exe**):<br>
 https://drive.google.com/drive/folders/1EH-R1Y6AfRDvs_W8vdYoI5XHNLk8VD93?usp=sharing
 
